@@ -1,0 +1,7 @@
+*.pcap
+*.pcapng
+*.cap
+*.log
+.env
+__pycache__/
+.vscode/
